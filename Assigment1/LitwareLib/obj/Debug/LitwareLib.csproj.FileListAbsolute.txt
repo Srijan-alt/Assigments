@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Assigment1\LitwareLib\bin\Debug\LitwareLib.dll
+C:\Users\ASUS\source\repos\Assigment1\LitwareLib\bin\Debug\LitwareLib.pdb
+C:\Users\ASUS\source\repos\Assigment1\LitwareLib\obj\Debug\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Assigment1\LitwareLib\obj\Debug\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Assigment1\LitwareLib\obj\Debug\LitwareLib.dll
+C:\Users\ASUS\source\repos\Assigment1\LitwareLib\obj\Debug\LitwareLib.pdb
+C:\Users\ASUS\Documents\C#\Assigment1\LitwareLib\bin\Debug\LitwareLib.dll
+C:\Users\ASUS\Documents\C#\Assigment1\LitwareLib\bin\Debug\LitwareLib.pdb
+C:\Users\ASUS\Documents\C#\Assigment1\LitwareLib\obj\Debug\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\C#\Assigment1\LitwareLib\obj\Debug\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C#\Assigment1\LitwareLib\obj\Debug\LitwareLib.dll
+C:\Users\ASUS\Documents\C#\Assigment1\LitwareLib\obj\Debug\LitwareLib.pdb
